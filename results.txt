@@ -1,0 +1,3 @@
+Test RMSE: 0.7970
+Conda Environment: 572hw5
+Hyperparameters: hidden_layer_sizes=[100, 50], max_iter=600

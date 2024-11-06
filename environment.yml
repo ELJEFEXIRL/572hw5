@@ -1,0 +1,11 @@
+name: 572hw5
+channels:
+  - rdkit
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.2 # Adjust version as needed
+  - rdkit
+  - scikit-learn
+  - pandas
+  - numpy

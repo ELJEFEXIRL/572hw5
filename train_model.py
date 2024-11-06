@@ -197,9 +197,9 @@
 
 #### `src/train_model.py`
 
-This is the main Python script for training the fingerprint-based model. It should accept two outside hyperparameters (`hidden_layer_sizes` and `max_iter`) and calculate the RMSE, saving the results in `results.txt`.
+#This is the main Python script for training the fingerprint-based model. It should accept two outside hyperparameters (`hidden_layer_sizes` and `max_iter`) and calculate the RMSE, saving the results in `results.txt`.
 
-```python
+#```python
 import pandas as pd
 import numpy as np
 from rdkit import Chem
